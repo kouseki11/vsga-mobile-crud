@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_add_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id address
+id btn_cancel
+id btn_submit
+id fab
+id id
+id list_view
+id name
+id txt_address
+id txt_name
+layout activity_add_edit
+layout activity_main
+layout list_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AplikasiSQLite
+style Theme.AplikasiSQLite
+xml backup_rules
+xml data_extraction_rules
